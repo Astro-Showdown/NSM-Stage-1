@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const element = document.body;
+    const element = document.getElementById("starmap");
 
     // Step 2: Attach an event listener
     element.addEventListener('click', function(event) {
